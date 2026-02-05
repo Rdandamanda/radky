@@ -1,0 +1,4 @@
+lines: 2147 (Suk)
+lines: 1247 (Vokrouhlík)
+lines: 614 (Matouš)
+lines: 604 (Otáhal)
