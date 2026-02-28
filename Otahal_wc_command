@@ -1,0 +1,37 @@
+maskop@archlinux ~/.config/quickshell                                                                                                                                                                                                                                                                                       [20:46:27]
+> $ wc -l * */* */*/*                                                                                                                                                                                                                                                                                                                 
+     92 Bar.qml
+      1 bingus
+      1 bingus2
+      0 Popups
+wc: Popups: Is a directory
+     30 Screenspace.qml
+      0 Services
+wc: Services: Is a directory
+      7 shell.qml
+      0 virtual-keyboard
+wc: virtual-keyboard: Is a directory
+      0 Widgets
+wc: Widgets: Is a directory
+      0 Popups/AppLauncher.qml
+    193 Popups/AppsWorkspaces.qml
+     99 Services/BatteryStats.qml
+     49 Services/Brightness.qml
+     32 Services/Design.qml
+     19 Services/Time.qml
+     24 virtual-keyboard/colors.json
+      0 virtual-keyboard/layouts
+wc: virtual-keyboard/layouts: Is a directory
+     86 virtual-keyboard/LockKeys.qml
+    578 virtual-keyboard/Main.qml
+      3 virtual-keyboard/settings.json
+      6 virtual-keyboard/shell.qml
+    381 virtual-keyboard/type-key.py
+      7 virtual-keyboard/virtual-keyboard.sh
+     42 Widgets/AppWorksapcesButton.qml
+     54 Widgets/ClockWidget.qml
+     88 Widgets/StatusWidget.qml
+     76 Widgets/Workspaces.qml
+    124 virtual-keyboard/layouts/azerty.json
+    122 virtual-keyboard/layouts/qwerty.json
+   2114 total
